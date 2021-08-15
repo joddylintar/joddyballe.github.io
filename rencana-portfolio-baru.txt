@@ -3,4 +3,6 @@ Rencana portfolio baru
 - Html
 - CCS
 - Javascript
-- Json
+- Ui/Ux
+* Adobe Xd
+- Desain
