@@ -1,6 +1,8 @@
-Rencana portfolio baru
+Rencana belajar baru
 
 - Html
 - CCS
 - Javascript
 - Json
+- Git
+- Hithub
