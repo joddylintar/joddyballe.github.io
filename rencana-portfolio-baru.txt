@@ -3,3 +3,4 @@ Rencana portfolio baru
 - Html
 - CCS
 - Javascript
+- Json
