@@ -1,8 +1,8 @@
-Rencana portfolio baru
+Rencana belajar baru
 
 - Html
 - CCS
 - Javascript
-- Ui/Ux
-* Adobe Xd
-- Desain
+- Json
+- Git
+- Hithub
